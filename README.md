@@ -1,5 +1,7 @@
 # Networking-Basics
+
 “Deep explanation of how the web works with real-life scenarios for beginners.”
+
 # 🌐 Networking Basics
 
 Welcome to **Networking Basics**, a collection of simple and detailed notes that explain how the web works, from the moment you type a website name to how it shows up in your browser.
@@ -15,20 +17,10 @@ This repo is part of my journey to become a **Full Stack Developer 🚀**. The e
 - ✅ HTTP vs HTTPS — What Makes a Website Secure
 - ✅ Request-Response Cycle
 - ✅ Frontend vs Backend — Who Does What
+- ✅ Servers vs Clients — Who is Talking to Whom?
 - ✅ IP Addresses, Ports, Protocols, Servers, Clients — All Explained Simply
 
----
 
-## 🔗 Files in This Repo
-
-| File                    | Description                              |
-|-------------------------|------------------------------------------|
-| `README.md`             | About this repo                         |
-| `How-the-Web-Works.md`  | Full guide on how the internet works    |
-| `DNS-Explained.md`      | DNS in super simple words               |
-| *(More coming soon)*    | HTTP/HTTPS, Frontend/Backend, etc.      |
-
----
 
 ## 💻 How to Use This Repo
 
