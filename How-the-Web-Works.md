@@ -1,4 +1,5 @@
 ## 🚀 What is the Internet?
+
 ---
 
 Imagine the internet is like a huge network of roads that connect houses (computers) all over the world.
@@ -26,9 +27,8 @@ The internet is the set of roads that connects your house to all other houses.
 ---
 
 ## 📈 Simple Diagram (Imagine This in Your Head)
+
 You (Browser) → DNS (Phonebook) → Server (Pizza Shop) → You (Website/Pizza Delivered)
-
-
 
 ---
 
@@ -69,7 +69,6 @@ Your browser sends a message to Google’s server:
 GET / HTTP/1.1
 Host: google.com
 
-
 This message says:
 
 “Hello Google! Please send me your homepage.”
@@ -108,22 +107,22 @@ It sends files like:
 
 ## 💡 Frontend vs Backend
 
-| Frontend 🖥️            | Backend 🔧            |
-|------------------------|-----------------------|
+| Frontend 🖥️                          | Backend 🔧                               |
+| ------------------------------------ | ---------------------------------------- |
 | What you see (buttons, text, colors) | What happens behind (databases, servers) |
-| HTML, CSS, JavaScript  | Java, Python, Node.js, Databases |
-| Runs in your browser   | Runs on the server    |
+| HTML, CSS, JavaScript                | Java, Python, Node.js, Databases         |
+| Runs in your browser                 | Runs on the server                       |
 
 ---
 
 ## 🍕 Simple Request-Response Example (Pizza Shop)
 
-| Real Life                 | Web                    |
-|---------------------------|------------------------|
-| You call Domino's         | Browser sends Request  |
-| "I want pizza"            | "I want google.com"    |
-| Domino's prepares pizza   | Server prepares website|
-| Pizza is delivered        | Website is displayed   |
+| Real Life               | Web                     |
+| ----------------------- | ----------------------- |
+| You call Domino's       | Browser sends Request   |
+| "I want pizza"          | "I want google.com"     |
+| Domino's prepares pizza | Server prepares website |
+| Pizza is delivered      | Website is displayed    |
 
 ---
 
@@ -141,16 +140,16 @@ It sends files like:
 ---
 
 ## 🔥 Full Web Journey Flow
+
 You type google.com → Browser asks DNS for IP → Gets IP (e.g. 142.250.68.206)
 → Browser sends HTTP/HTTPS request to server → Server sends website files (HTML, CSS, JS)
 → Browser builds the page → Website appears!
 
-
 ---
 
 ## 📊 Text-Based Chart (Flow of Web)
-[Browser] → [DNS Lookup] → [IP Found]→ [Send Request] → [Server]→ [Server Sends Response]→ [Browser Builds Website] → [You See It!]
 
+[Browser] → [DNS Lookup] → [IP Found]→ [Send Request] → [Server]→ [Server Sends Response]→ [Browser Builds Website] → [You See It!]
 
 ---
 
@@ -165,4 +164,3 @@ Understanding this is the first step to becoming a full stack developer.
 ## ✍️ Author
 
 **Likhitha9961** | Learning Full Stack Development 🚀
-
