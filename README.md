@@ -14,11 +14,15 @@ This repo is part of my journey to become a **Full Stack Developer 🚀**. The e
 
 - ✅ How the Web Works (Step by Step)
 - ✅ DNS — How Websites are Found
+- ✅ IP Addresses, Ports, Protocols, Servers, Clients — All Explained Simply
 - ✅ HTTP vs HTTPS — What Makes a Website Secure
 - ✅ Request-Response Cycle
-- ✅ Frontend vs Backend — Who Does What
 - ✅ Servers vs Clients — Who is Talking to Whom?
-- ✅ IP Addresses, Ports, Protocols, Servers, Clients — All Explained Simply
+- ✅ Frontend vs Backend — Who Does What
+- ✅ Networking-Basics-summary
+
+
+
 
 
 
