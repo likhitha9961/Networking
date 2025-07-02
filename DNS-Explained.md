@@ -87,7 +87,6 @@ The web works exactly like this!
 ↓
 [Browser Connects to IP]
 
-
 ---
 
 ## 🏎️ Speed Trick — DNS Caching
@@ -113,7 +112,6 @@ Instead, thanks to DNS, you just type:
 google.com
 facebook.com
 
-
 ✔️ Easy!
 
 ---
@@ -131,4 +129,3 @@ It quietly works behind the scenes every time you visit a website — finding th
 
 > 📝 These notes are part of my learning journey.  
 > Built to help myself and others understand networking basics in simple language.
-

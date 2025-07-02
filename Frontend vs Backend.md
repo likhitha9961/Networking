@@ -5,6 +5,7 @@
 ## 🍕 Think of a Pizza Shop 🍕
 
 - **Frontend:** The part you see.
+
   - The menu.
   - The signboard.
   - The chairs, colors, lights.
@@ -19,13 +20,13 @@
 
 ## 🖥️ In a Website:
 
-| Frontend (Client Side)  | Backend (Server Side)    |
-|-------------------------|--------------------------|
-| What users see          | Behind-the-scenes magic  |
-| Website layout          | Databases                |
-| Buttons, colors, text   | Authentication (Login)   |
-| Images, videos          | Payment processing       |
-| HTML, CSS, JavaScript   | Python, Java, Node.js    |
+| Frontend (Client Side) | Backend (Server Side)   |
+| ---------------------- | ----------------------- |
+| What users see         | Behind-the-scenes magic |
+| Website layout         | Databases               |
+| Buttons, colors, text  | Authentication (Login)  |
+| Images, videos         | Payment processing      |
+| HTML, CSS, JavaScript  | Python, Java, Node.js   |
 
 ---
 
@@ -41,6 +42,7 @@
 ---
 
 ## 📈 Simple Flow Diagram
+
 [Frontend] → (Shows search box)
 You type "Pizza"
 
@@ -51,7 +53,6 @@ You type "Pizza"
 ↓ (Response)
 
 [Frontend] → (Shows results beautifully)
-
 
 ---
 
@@ -69,11 +70,11 @@ You type "Pizza"
 
 ## 🏗️ Tech Stack Examples:
 
-| Frontend               | Backend                  |
-|------------------------|--------------------------|
-| HTML, CSS, JavaScript  | Java, Python, Node.js    |
-| React, Angular         | Express, Django, Spring  |
-| Vue.js                 | FastAPI, Flask           |
+| Frontend              | Backend                 |
+| --------------------- | ----------------------- |
+| HTML, CSS, JavaScript | Java, Python, Node.js   |
+| React, Angular        | Express, Django, Spring |
+| Vue.js                | FastAPI, Flask          |
 
 ---
 

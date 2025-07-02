@@ -6,7 +6,7 @@
 
 Welcome to **Networking Basics**, a collection of simple and detailed notes that explain how the web works, from the moment you type a website name to how it shows up in your browser.
 
-This repo is part of my journey to become a **Full Stack Developer 🚀**. The explanations are written in **super simple English**, with examples, scenarios, and diagrams — designed for anyone to understand, even beginners.
+ The explanations are written in **super simple English**, with examples, scenarios, and diagrams — designed for anyone to understand, even beginners.
 
 ---
 
