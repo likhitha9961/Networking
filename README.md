@@ -37,7 +37,7 @@ Welcome to **Networking Basics**, a collection of simple and detailed notes that
 ## 🚀 About Me
 
 **Likhitha9961**  
-Aspiring Full Stack Developer 👩‍💻 | Learning and Growing Every Day 🚀
+Learning and Growing Every Day 🚀
 
 ---
 
